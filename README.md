@@ -16,8 +16,8 @@ Umožňuje přidávat, upravovat, mazat a vyhledávat hry v databázi `games.db`
 
 1. Naklonuj repozitář:
    ```bash
-   git clone https://github.com/tvoje-jmeno/game-library-console.git
-   cd game-library-console
+   git clone https://github.com/RollEyes10/KonzoleGamelibary.git
+   cd KonzoleGamelibary
    ```
 
 2. Sestav a spusť:
